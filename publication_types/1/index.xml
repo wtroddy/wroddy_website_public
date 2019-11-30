@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Will Roddy</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Will Roddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessing the Feasibility of a Novel Non-Invasive Sensor for Guiding Wounded Warrior Rehabilitation</title>
+      <link>/publication/bsx-poster-mhsrs-2018/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/bsx-poster-mhsrs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Academy Longitudinal TBI Outcome Study (SALTOS)</title>
+      <link>/publication/saltos-poster-mhsrs-2018/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/saltos-poster-mhsrs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Dog Training in the National Capital Region: A 5-Year Retrospective Review</title>
+      <link>/publication/sdtp-poster-mhsrs-2018/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/sdtp-poster-mhsrs-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
