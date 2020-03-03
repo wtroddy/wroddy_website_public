@@ -6,6 +6,70 @@
     
     <url>
     
+      <loc>/publication/socket-foot-rx-ewi-2020/</loc>
+      <lastmod>2020-01-21T00:12:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/mirror-da-ewi-2020/</loc>
+      <lastmod>2020-01-21T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/mtfec-milmed-2020/</loc>
+      <lastmod>2020-01-15T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/pmc-overlapping-sites-2020/</loc>
+      <lastmod>2019-12-31T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/mtfec-mhsrs-2019/</loc>
+      <lastmod>2019-08-20T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/socket-prosth-mhsrs-2019/</loc>
+      <lastmod>2019-08-20T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hcua-clinic-util-mhsrs-2019/</loc>
+      <lastmod>2019-08-20T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/pmc-painmed-2019/</loc>
+      <lastmod>2019-08-13T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2018-11-19T21:22:06-05:00</lastmod>
     </url>
@@ -118,16 +182,8 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication_types/1/</loc>
-      <lastmod>2018-08-22T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-21T00:12:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -136,7 +192,16 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-13T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2020-01-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,7 +254,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-08-22T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-21T00:12:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
